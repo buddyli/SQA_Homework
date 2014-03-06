@@ -1,9 +1,9 @@
 What's Software Quality Assurance(SQA)?
 
-Softwares were developped for humanbeing to use, so the quality is very important. We should guarantee the quality of the software
-that we released. In order to achieve that purpose, there are many methodes and tools that we can use. And not only testers, 
-but also analysers, developpers, architectors, all of the people of the software team should try there best to guarantee the 
-quality of the software.
+Softwares were developped for humanbeing to use, so the quality is very important. We should guarantee the quality of the 
+software that we released. In order to achieve that purpose, there are many methodes and tools that we can use. And not 
+only testers, but also analysers, developpers, architectors, all of the people of the software team should try there best
+to guarantee the quality of the software.
 
-SQA should be run through the whole software life cycle. From requirement analysis, to architect design, to developemnt,to test, to 
-maintance.
+SQA should be run through the whole software life cycle. From requirement analysis, to architect design, to developemnt, 
+to test, to maintance.
