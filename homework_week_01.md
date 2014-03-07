@@ -1,4 +1,4 @@
-What's Software Quality Assurance(SQA)?
+#What's Software Quality Assurance(SQA)?
 
 Softwares were developped for humanbeing to use, so the quality is very important. We should guarantee the quality of the 
 software that we released. In order to achieve that purpose, there are many methodes and tools that we can use. And not 
